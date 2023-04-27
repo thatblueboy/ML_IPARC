@@ -5,7 +5,7 @@ param['img_size'] = 15
 param['seq_length'] = 4 
 param['no_examples_per_task'] = 2
 param['no_colors'] = 3
-for i in range(1):
+for i in range(2):
     param['se_size'] = 2*i+3
     Generate_SE.generate_100_tasks_CatA_Simple(**param)
 

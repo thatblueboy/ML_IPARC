@@ -1,4 +1,0 @@
-Dilation SE7
-Dilation SE5
-Erosion SE7
-Erosion SE5

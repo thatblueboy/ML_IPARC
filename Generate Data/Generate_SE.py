@@ -114,6 +114,6 @@ if __name__ == "__main__":
     param['no_examples_per_task'] = 2
     param['no_colors'] = 3
 
-    for i in range(1):
+    for i in range(2):
         param['se_size'] = 2*i+3
         generate_100_tasks_CatA_Simple(**param)

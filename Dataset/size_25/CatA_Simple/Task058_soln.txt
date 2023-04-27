@@ -1,4 +1,0 @@
-Dilation SE3
-Dilation SE3
-Erosion SE3
-Erosion SE3

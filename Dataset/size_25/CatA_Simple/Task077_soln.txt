@@ -1,4 +1,0 @@
-Dilation SE2
-Dilation SE4
-Erosion SE2
-Erosion SE4
