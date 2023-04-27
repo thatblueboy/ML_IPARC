@@ -1,4 +1,4 @@
-Dilation SE6
 Dilation SE3
-Erosion SE6
+Dilation SE7
 Erosion SE3
+Erosion SE7

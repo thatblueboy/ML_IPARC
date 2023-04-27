@@ -99,7 +99,7 @@ def generate_100_tasks_CatA_Simple(**param):
     # print(sequence)
     # np.random.seed(seed)
     # os.makedirs("./Dataset/CatA_Simple_nosolns", exist_ok=True)
-    for task_no in range(100):
+    for task_no in range(500):
         data, list_se_idx = generate_one_task_CatA_Simple(**param)
         print(list_se_idx)
         fname = './Dataset/Sequence_{:01d}/CatA_Simple/Task{:03d}.json'.format(sequence, task_no)

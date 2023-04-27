@@ -95,7 +95,7 @@ def generate_100_tasks_CatA_Simple(**param):
     size =  param['img_size']
     # np.random.seed(seed)
     # os.makedirs("./Dataset/CatA_Simple_nosolns", exist_ok=True)
-    for task_no in range(100):
+    for task_no in range(500):
         print('done')
 
         data, list_se_idx = generate_one_task_CatA_Simple(**param)
