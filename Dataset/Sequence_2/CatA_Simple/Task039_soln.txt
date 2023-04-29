@@ -1,4 +1,4 @@
 Dilation SE8
-Dilation SE6
+Dilation SE3
 Erosion SE8
-Erosion SE6
+Erosion SE3
